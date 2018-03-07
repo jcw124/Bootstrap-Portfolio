@@ -108,11 +108,11 @@ h1{
     width: 60px; 
     border: none;
     } */
-/* form{
-        width: 500px;
+/* form{ */
+        /* width: 500px;
         overflow: auto;
-        position: relative;
-    } */
+        position: relative; */
+    /* } */
 /* input[type=submit] {
         background-color:  #4aaaa5;
         border: none;
@@ -132,7 +132,7 @@ h1{
     /* p{
         padding: 20px;
     } */
-/* input[type=submit] {
+ input[type=submit] {
     background-color:  #4aaaa5;
     border: none;
     color: white;
@@ -140,10 +140,13 @@ h1{
     text-decoration: none;
     margin: 4px 2px;
     cursor: pointer;
-} */
-/* #message {
-    min-height: 150px;
-} */
+} 
+.row{
+    padding:10px;
+ }
+.message {
+    min-height: 300px;
+}
 /* #hangman {
     background-image:url("../images/abstract-q-c-250-250-1.jpg");
     float: left;
@@ -204,4 +207,4 @@ h4 {
      color: #fff;
      background-color: #4aaaa5;
     padding: 20px 0;
-}   */
+} 
